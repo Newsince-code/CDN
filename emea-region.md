@@ -133,6 +133,7 @@ EMEA is an abbreviation for Europe, Middle East, and Africa.
 * Togo
 * Tunisia
 * Turkey
+* Ukraine
 * Uganda
 * United Arab Emirates
 * United Kingdom
